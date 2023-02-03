@@ -1,3 +1,3 @@
 # Kokoa Clone 2023 Update
 
-Css Test.
+Html and CSS are so much fun!
